@@ -1,0 +1,6 @@
+---
+profile::pasture::app::default_message: "Welcome to Beauvine!"
+profile::base::dev_users::users:
+  - title: 'antonio'
+    comment: 'antonio'
+    pub_key: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDDEn2tRTTHJF4xmVYgkumJ/89Isu6pU/cSqJo7NBlpsRA+0SPsUiTJf2Vs3jUGLxDG3j41zpJ1DTVYZ9QMTsaBE2P2qGGOoACt2qFnU3IegjHf3yK3tUAMsA6xkXW0vzWF3B7P44tvUJywfGh4T8h3q0W5vl+3D1D4fV9P2RZmhq879lxkaQfbrasOa6xGOZN9PKHogNI8cFD53NQl9YWUP8l7PmpU/TaDzGqgfYB5hzzFIqpHAK8CBRSihZZmWeHfwhJarYGHl/MMgR5NQ3pXWKtqw80OAe4dxy88gUTNlEEITi4konQfpv+1xQMa/Wb+UUzS8PS3Z/7vRciWzD+XhQFTNnnOFXcdDRHoK3Lvz0aPGFWw+2HplOYEsd2ePdN9IIBDMrpAEBpLMrXSZ2kFC8zsRXMoeNsmBEeB1LjpjPRLNeLUV+UgpvBQyLVAWMxON5yHvUqOSaTEyVBzEXBTklH21mVFpN1iudth52mJcM6FtFk7K5knZgcViPcPAEo8Xnug+To7tjpCeWd4ySffxgEZM3i3ZGT9YB5svLZGHtO50w+CP13J+t92qDasrjtjNYqAUmhjAK2j26ukvrq1kmfkr5DmKduiaWXHP4pglWZkVV8Hu4xxjN67zjUGWkgbuFPG/2/PQcrFdb9x5Z2p97QTtnanTTpc0aBL04gEpw/'
